@@ -1,5 +1,5 @@
 # e8-qudit-qec
-
+DOI Zenodo.22823651
 Autonomous quantum error correction on qudit d=5
 with E8 × E8 conservation law and reflection symmetry.
 
