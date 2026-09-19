@@ -1,4 +1,3 @@
-# e8_Qudit
 # e8-qudit-qec
 
 Autonomous quantum error correction on qudit d=5
@@ -20,3 +19,10 @@ Computed from the framework:
 ## Notes
 All numbers are derived, not assumed.
 Run and read the module namespace directly.
+numpy
+pytest
+git init
+git add e8qec.py test_e8qec.py README.md requirements.txt
+git commit -m "E8 x E8 qudit d=5 autonomous QEC core"
+git remote add origin <repo>
+git push -u origin main
