@@ -2,11 +2,8 @@
 DOI Zenodo.22844636
 Autonomous quantum error correction on qudit d=5
 with E8 × E8 conservation law and reflection symmetry.
+#ส่วนของโค้ดทำโดยเอไอ จึงไม่ใช่เนื้องานจริงทั้งหมด
 
-## Structure
-- `e8qec.py` — core: predicates, weight enumerator, L_heal, decoder, Monte Carlo
-- `test_e8qec.py` — property tests
-- `requirements.txt` — numpy
 
 ## Run
 pip install -r requirements.txt
