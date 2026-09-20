@@ -1,5 +1,7 @@
-Inventor and Architect of this Quantum Logic: Chutiphong Bunloed (Buriram, Thailand
+Inventor and Architect of this Quantum Logic: Chutiphong Bunloed (Buriram, Thailand)
+
 DOI Zenodo.22844636
+
 E8-QEC: Geometric Qudit Quantum Error Correction
 
 A high-performance blueprint for Fault-Tolerant Quantum Computing. This repository provides the mathematical framework and baseline verification for a geometric high-dimensional Quantum Error Correction (QEC) architecture based on the E_8 × E_8 symmetry group applied to 5-dimensional qudits (d=5).
