@@ -1,6 +1,8 @@
 Sell Full IP
 1.Chip_Photonic_Fermi
+
 2.MHMQ
+
 3.E8×E8
 
 Inventor and Architect of this Quantum Logic: Chutiphong Bunloed (Buriram, Thailand)
