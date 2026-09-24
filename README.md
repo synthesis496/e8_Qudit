@@ -1,3 +1,5 @@
+demo ver
+
 Commercial IP Sale / Exclusive Licensing
 32-Site Topological Qudit Logic for Non-Dissipative Computational and Information Systems
 
